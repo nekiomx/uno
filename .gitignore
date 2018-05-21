@@ -1,0 +1,4 @@
+# Archivos objeto o librerías de compilación
+*.[oa]
+# Archivo temporal de Emacs
+*~

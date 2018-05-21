@@ -11,7 +11,7 @@ int main (void)                   // Inicio del programa principal (main)
 
   printf("Soy una simple ");      // Uso de la función 'printf'
   printf("computadora.\n");
-  printf("Mi nùmero favorito es %d porque es el primero.\n", num);
+  printf("Mi número favorito es el %d porque es el primero.\n", num);
 
   return 0;
 }
