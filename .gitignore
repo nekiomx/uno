@@ -4,5 +4,6 @@
 *~
 # Archivos .txt para uso administrativo
 *.txt
-# Carpeta de notas de aprendizaje
+# Carpeta de notas de aprendizaje y compilados
 notas
+bin
