@@ -2,3 +2,5 @@
 *.[oa]
 # Archivo temporal de Emacs
 *~
+# Archivos .txt para uso administrativo
+*.txt
